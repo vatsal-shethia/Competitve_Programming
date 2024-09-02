@@ -1,4 +1,4 @@
-/* B. One Set Bit
+''' B. One Set Bit
 Sheldon is working on a problem involving binary numbers. Given a positive integer x
 , he wants to determine if the binary representation of x
  contains exactly one 1.
@@ -20,7 +20,7 @@ Next T
 Output
 Output "YES" if the binary representation of x
  contains exactly one 1. Otherwise, output "NO".
-*/
+'''
 t = int(input())
  
 for _ in range(t):
