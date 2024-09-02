@@ -1,4 +1,4 @@
-/*A. Howard's Food crisis
+'''A. Howard's Food crisis
 Howard is in Space, he has x
  amounts of food and y
  amounts of water. He eats m
@@ -24,7 +24,7 @@ Second line of each test case contains m
 
 Output
 For each testcase ,output a single integer denoting the number of days Howard will last.
-  */
+  '''
 
 t = int(input())
 for _ in range(t):
